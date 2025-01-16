@@ -38,7 +38,7 @@ I believe in leveraging automation, scalability, and resilience to build efficie
 
 ## 📜 Guru Quote
 
-> "become so good they can't ignore you." – *Steve Martin*  
+> "be so good they can't ignore you." – *Steve Martin*  
 
 ---
 
