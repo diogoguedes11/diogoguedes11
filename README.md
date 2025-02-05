@@ -26,7 +26,7 @@ I believe in leveraging automation, scalability, and resilience to build efficie
 
 <!-- - 🌐 [Portfolio](https://diogoguedes.dev)   -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/diogo-guedes11/)  
-
+- 🌐 [Substack Blog](https://substack.com/@diogotechlife)  
 ---
 
 ## 📊 GitHub Stats  
