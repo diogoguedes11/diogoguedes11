@@ -16,11 +16,6 @@
 
 ---
 
-## 🌟 My Philosophy  
-
-I believe in leveraging automation, scalability, and resilience to build efficient and robust cloud-native systems. By combining DevOps principles with modern tools, I aim to simplify workflows and enable teams to deliver value faster.  
-
----
 
 ## 🔗 Connect With Me  
 
