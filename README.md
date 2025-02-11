@@ -44,4 +44,4 @@
 - advanced kubernetes practices (operators, networking).  
 - optimizing ci/cd workflows for large-scale deployments.  
 - serverless technologies and event-driven architectures.  
-- Creating my Kubernetes Homelab.s
+- Creating my Kubernetes Homelab.
