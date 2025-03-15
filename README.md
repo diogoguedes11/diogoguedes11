@@ -36,5 +36,5 @@
 📖 currently exploring:  
 
 - Terraform
-- Deploying more self-hosted apps in my Homelab[https://github.com/diogoguedes11/homelab]
+- Deploying more self-hosted apps in my [Homelab](https://github.com/diogoguedes11/homelab)
 - Cloud 
