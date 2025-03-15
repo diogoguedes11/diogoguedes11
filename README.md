@@ -24,12 +24,6 @@
 - 🌐 [Substack Blog](https://substack.com/@diogotechlife)  
 ---
 
-## 📊 GitHub Stats  
-
-![Diogo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogoguedes&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoguedes&layout=compact&theme=dark)  
-
----
 
 ## 📜 Guru Quote
 
@@ -41,7 +35,6 @@
 
 📖 currently exploring:  
 
-- advanced kubernetes practices (operators, networking).  
-- optimizing ci/cd workflows for large-scale deployments.  
-- serverless technologies and event-driven architectures.  
-- Creating my Kubernetes Homelab.
+- Terraform
+- Deploying more self-hosted apps in my Homelab[https://github.com/diogoguedes11/homelab]
+- Cloud 
