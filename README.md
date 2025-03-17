@@ -25,12 +25,6 @@
 ---
 
 
-## 📜 Guru Quote
-
-> "be so good they can't ignore you." – *Steve Martin*  
-
----
-
 ### 🌱 always learning  
 
 📖 currently exploring:  
