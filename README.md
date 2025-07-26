@@ -21,7 +21,6 @@
 
 <!-- - 🌐 [Portfolio](https://diogoguedes.dev)   -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/diogo-guedes11/)  
-- 🌐 [Substack Blog](https://substack.com/@diogotechlife)  
 ---
 
 
@@ -29,6 +28,9 @@
 
 📖 currently exploring:  
 
-- Terraform
-- Deploying more self-hosted apps in my [Homelab](https://github.com/diogoguedes11/homelab)
-- Cloud 
+- Machine learning and AI applications in DevOps
+- Docker & Kubernetes
+- Terraform & Infrastructure as Code
+- GitHub Actions & CI/CD pipelines
+- Google Cloud Platform (GCP) services
+- DevOps best practices
