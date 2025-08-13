@@ -1,36 +1,17 @@
-# 👋 Hi, I'm Diogo Guedes  
+# About Me  
+👋 Hi, I'm a Cloud & DevOps Engineer with a passion for automation, AI, and continuous learning.
 
-🚀 **DevOps Engineer | Cloud Engineer**  
-💻 Passionate about **Google Cloud**, **Kubernetes**, **Docker**, **GitHub Actions**, **Terraform**, and **CI/CD pipelines**.  
+🔧 Currently focusing on:
+- 🚀 Automating infrastructure with Terraform and GitHub Actions  
+- 🐍 Improving programming skills in Python and Go (Golang)  
+- ☸ Certified Kubernetes Administrator (CKA)  
+- ☁️ Google Cloud Certified  
 
----
-
-## 🛠️ Tools & Technologies I Work With  
-
-- **Cloud Providers:** Google Cloud (GCP)
-- **Containerization & Orchestration:** Kubernetes, Docker.  
-- **Infrastructure as Code:** Terraform, Helm.  
-- **CI/CD:** GitHub Actions, ArgoCD, Cloud Build, Jenkins.
-- **Version Control:** Git, GitHub, GitLab.  
-- **Programming:** Python, Bash  
-
----
+⚙️ Interests:
+- DevOps best practices & CI/CD pipelines  
+- Exploring AI/ML applications in cloud environments  
+- Building scalable, reliable, and secure cloud solutions  
 
 
-## 🔗 Connect With Me  
-
-<!-- - 🌐 [Portfolio](https://diogoguedes.dev)   -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/diogo-guedes11/)  
----
-
-
-### 🌱 always learning  
-
-📖 currently exploring:  
-
-- Machine learning and AI applications in DevOps
-- Docker & Kubernetes
-- Terraform & Infrastructure as Code
-- GitHub Actions & CI/CD pipelines
-- Google Cloud Platform (GCP) services
-- DevOps best practices
+📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogoguedes11&show_icons=true&theme=tokyonight)  
