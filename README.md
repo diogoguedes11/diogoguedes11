@@ -4,8 +4,12 @@
 🔧 Currently focusing on:
 - 🚀 Automating infrastructure with Terraform and GitHub Actions  
 - 🐍 Improving programming skills in Python and Go (Golang)  
+
+🎖️ Certifications:
 - ☸ Certified Kubernetes Administrator (CKA)  
-- ☁️ Google Cloud Certified  
+- ☁️ Google Cloud Certified
+- 😺 Github Certified
+-  🤖  HashiCorp Certified
 
 ⚙️ Interests:
 - DevOps best practices & CI/CD pipelines  
