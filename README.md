@@ -1,21 +1,60 @@
-# About Me  
-👋 Hi, I'm a Cloud & DevOps Engineer with a passion for automation, AI, and continuous learning.
+# Hi there, I'm Diogo 👋
 
-🔧 Currently focusing on:
-- 🚀 Automating infrastructure with Terraform and GitHub Actions  
-- 🐍 Improving programming skills in Python and Go (Golang)  
+### ☁️ Cloud & Platform Engineer
+**Building resilient infrastructure.**
 
-🎖️ Certifications:
-- ☸ Certified Kubernetes Administrator (CKA)  
-- ☁️ Google Cloud Certified
-- 😺 Github Certified
--  🤖  HashiCorp Certified
+I focus on transitioning from manual operations to **autonomous systems**. My work bridges the gap between complex cloud architecture (Azure/GCP) and developer experience, using **Go**, **Kubernetes**, and **Terraform**.
 
-⚙️ Interests:
-- DevOps best practices & CI/CD pipelines  
-- Exploring AI/ML applications in cloud environments  
-- Building scalable, reliable, and secure cloud solutions  
+---
 
+### 🛠️ The Tech Stack
 
-📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogoguedes11&show_icons=true&theme=tokyonight)  
+| Domain | Technologies |
+| :--- | :--- |
+| **Cloud & Infra** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white) |
+| **Container & Orchestration** | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/HELM-%230F1689.svg?style=flat&logo=helm&logoColor=white) ![Istio](https://img.shields.io/badge/istio-%23466BB0.svg?style=flat&logo=istio&logoColor=white) |
+| **Automation & Code** | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white) |
+| **CI/CD & GitOps** | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white) |
+
+---
+
+### 🚀 Featured Projects
+
+I believe in **Engineering over Configuring**. Here are some of the tools and platforms I'm building:
+
+| Project | Type | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[java-cicd](https://github.com/diogoguedes11/java-cicd)** | 🔄 DevSecOps | **Terraform, ArgoCD, Trivy** | End-to-end secure pipeline from commit to production. |
+| **[lab](https://github.com/diogoguedes11/lab)** | 🔬 R&D | **Polyglot** | My central laboratory for testing new patterns and tools. |
+
+---
+
+### 🎖️ Certifications
+
+**Google Cloud Platform (8x Certified)**
+> *Demonstrating end-to-end mastery of the GCP ecosystem.*
+* ☁️ **Professional Cloud Architect**
+* 🧠 **Professional Machine Learning Engineer**
+* 📊 **Professional Data Engineer**
+* 🛡️ **Professional Cloud Security Engineer**
+* 🌐 **Professional Cloud Network Engineer**
+* ♾️ **Professional Cloud DevOps Engineer**
+* 🗄️ **Professional Cloud Database Engineer**
+* ☁️ **Associate Cloud Engineer**
+
+**Cloud Native & Infrastructure**
+* ☸ **CKA:** Certified Kubernetes Administrator (Linux Foundation)
+* 🔥 **PCA:** Prometheus Certified Associate (Linux Foundation)
+* 🤖 **HashiCorp:** Terraform Associate
+
+**DevOps & Automation**
+* 😺 **GitHub:** GitHub Actions Certification
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=diogoguedes11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoguedes11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
