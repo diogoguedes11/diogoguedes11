@@ -32,7 +32,6 @@ I believe in **Engineering over Configuring**. Here are some of the tools and pl
 ### 🎖️ Certifications
 
 **Google Cloud Platform (8x Certified)**
-> *Demonstrating end-to-end mastery of the GCP ecosystem.*
 * ☁️ **Professional Cloud Architect**
 * 🧠 **Professional Machine Learning Engineer**
 * 📊 **Professional Data Engineer**
@@ -50,11 +49,3 @@ I believe in **Engineering over Configuring**. Here are some of the tools and pl
 **DevOps & Automation**
 * 😺 **GitHub:** GitHub Actions Certification
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=diogoguedes11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoguedes11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
