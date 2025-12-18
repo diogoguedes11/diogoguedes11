@@ -24,8 +24,9 @@ I believe in **Engineering over Configuring**. Here are some of the tools and pl
 
 | Project | Type | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
+| **[azure-foundation](https://github.com/diogoguedes11/azure-infra-foundation)** | ☁️ Infra / IaC | **IaC	Terraform, Azure Monitor, KQL** | Building modular Landing Zones with advanced observability (DCRs & Alerts). |
 | **[java-cicd](https://github.com/diogoguedes11/java-cicd)** | 🔄 DevSecOps | **Terraform, ArgoCD, Trivy** | End-to-end secure pipeline from commit to production. |
-| **[lab](https://github.com/diogoguedes11/lab)** | 🔬 R&D | **Polyglot** | My central laboratory for testing new patterns and tools. |
+| **[lab](https://github.com/diogoguedes11/lab)** | 🔬 R&D | **Polyglot** | Sandbox for quick scripts, automation tests and POCs. |
 
 ---
 
